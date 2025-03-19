@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello from Main branch 
 Hello from Dev
+=======
+
+hello from test
+>>>>>>> test
